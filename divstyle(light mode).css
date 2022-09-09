@@ -1,0 +1,693 @@
+body{
+    background: #F4F7FF;
+}
+.div1{
+    position: absolute;
+width: 1440px;
+height: 104px;
+left: 0px;
+top: 0px;
+
+/* Gray/Gray 900 */
+
+background: #F4F7FF;
+}
+.div2{
+    /* Frame 2 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 16px 24px;
+gap: 10px;
+
+position: absolute;
+width: 94px;
+height: 56px;
+left: 1269px;
+top: 24px;
+
+/* Gray/Gray 700 */
+
+background: #98A6C7;
+border-radius: 8px;
+}
+.img1{
+/* Vector */
+
+
+position: absolute;
+left: 5%;
+right: 5%;
+top: 72px;
+
+/* Blue/Blue 600 */
+
+background: #0059F7;
+}
+.h4{
+    /* Saflow */
+
+
+position: absolute;
+width: 83px;
+height: 32px;
+left: 124px;
+top: 36px;
+
+/* H4 Title */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+letter-spacing: -0.02em;
+
+color: #081131;
+
+}
+.button1{
+    width: 94px;
+    height: 56px;
+
+/* Button */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+background-color:   #98A6C7;
+
+color: #FFFFFF;
+
+border: 0;
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.p1{
+    position: absolute;
+width: 456px;
+height: 240px;
+left: 190px;
+top: 168px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 80px;
+/* or 125% */
+
+letter-spacing: -0.03em;
+
+color: #162044;
+}
+.p2{
+    /* Sit quam dictumst lectus commodo tristique in quis aliquet cursus id id urna donec nibh. */
+
+
+position: absolute;
+width: 400px;
+height: 96px;
+left: 850px;
+top: 196px;
+
+/* Body Large */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* or 160% */
+
+letter-spacing: -0.02em;
+
+/* Gray/Gray 500 */
+
+color: #7E8BB6;
+
+}
+.img2{
+    position: absolute;
+width: 1280px;
+height: 644px;
+left: 80px;
+top: 480px;
+
+}
+.google{
+    position: absolute;
+width: 109px;
+height: 36px;
+left: 225px;
+top: 1218px;
+}
+.slack{/* Slack Logo */
+
+
+    position: absolute;
+    width: 119px;
+    height: 31px;
+    left: 441px;
+    top: 1221px;
+    }
+
+.amazon{/* Amazon Logo */
+
+
+    position: absolute;
+    width: 99px;
+    height: 29px;
+    left: 671px;
+    top: 1225px;
+    }
+
+.zoom{/* Zoom Logo */
+
+
+    position: absolute;
+    width: 86px;
+    height: 20px;
+    left: 897px;
+    top: 1226px;
+    }
+
+.netflix{/* Netflix Logo */
+
+
+    position: absolute;
+    width: 106px;
+    height: 29px;
+    left: 1107px;
+    top: 1222px;
+    }
+.p3{/* Features */
+
+
+    position: absolute;
+    width: 202px;
+    height: 64px;
+    left: 300px;
+    top: 1445px;
+
+    /* H2 Title */
+
+    font-family: 'Sora';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    /* identical to box height, or 133% */
+
+    letter-spacing: -0.03em;
+
+    color: #273464;
+}
+.p4{
+    /* In vitae faucibus ipsum netus eget at aenean nunc id tincidunt aliquam! */
+
+
+position: absolute;
+width: 399px;
+height: 64px;
+left: 301px;
+top: 1525px;
+
+/* Body Large */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* or 160% */
+
+letter-spacing: -0.02em;
+
+/* Gray/Gray 500 */
+
+color: #7E8BB6;
+}
+.div5{
+    /* Rectangle 531 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 288px;
+left: 300px;
+top: 1621px;
+
+background: linear-gradient(0deg, rgba(204, 210, 233, 0.5), rgba(204, 210, 233, 0.5)),
+linear-gradient(0deg, #F4F7FF, #F4F7FF);
+
+
+/* Gray/Gray 700 */
+border-radius: 16px;
+}
+.p5{
+    /* A pseudo-Latin text used in web design, layout, and printing in place of things to emphasise layouts for previewing layouts and visual mockups. */
+
+
+position: absolute;
+width: 336px;
+height: 96px;
+top: 150px;
+
+/* Body Default */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+letter-spacing: -0.01em;
+
+/* Gray/Gray 300 */
+
+color: #070E27;
+
+}
+.p6{
+    position: absolute;
+width: 132px;
+height: 32px;
+top: 75px;
+
+/* H4 Title */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 32px;
+/* identical to box height, or 133% */
+
+letter-spacing: -0.02em;
+
+color: #070E27;
+
+}
+.img3{
+    /* Vector */
+
+
+position: absolute;
+left:10px;
+right: 8.33%;
+top: 12.5%;
+bottom: 12.5%;
+
+}
+.div6{
+    /* Rectangle 531 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 288px;
+left: 740px;
+top: 1621px;
+
+/* Gray/Gray 900 */
+
+background: linear-gradient(0deg, rgba(204, 210, 233, 0.5), rgba(204, 210, 233, 0.5)),
+linear-gradient(0deg, #F4F7FF, #F4F7FF);
+border-radius: 16px;
+}
+.div7{
+    /* Rectangle 531 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 288px;
+left: 300px;
+top: 1941px;
+
+/* Gray/Gray 900 */
+
+background: linear-gradient(0deg, rgba(204, 210, 233, 0.5), rgba(204, 210, 233, 0.5)),
+linear-gradient(0deg, #F4F7FF, #F4F7FF);
+border-radius: 16px;
+}
+.div8{
+    /* Rectangle 531 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 288px;
+left: 740px;
+top: 1941px;
+
+/* Gray/Gray 800 */
+
+background: linear-gradient(0deg, rgba(204, 210, 233, 0.5), rgba(204, 210, 233, 0.5)),
+linear-gradient(0deg, #F4F7FF, #F4F7FF);
+/* Cart */
+
+box-shadow: 0px 35px 45px rgba(7, 14, 39, 0.05);
+border-radius: 16px;
+}
+.div9{
+    /* Rectangle 531 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 288px;
+left: 300px;
+top: 2261px;
+
+/* Gray/Gray 900 */
+
+background: linear-gradient(0deg, rgba(204, 210, 233, 0.5), rgba(204, 210, 233, 0.5)),
+linear-gradient(0deg, #F4F7FF, #F4F7FF);
+border-radius: 16px;
+}
+.div10{
+    /* Rectangle 531 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 288px;
+left: 740px;
+top: 2261px;
+
+/* Gray/Gray 900 */
+
+background: linear-gradient(0deg, rgba(204, 210, 233, 0.5), rgba(204, 210, 233, 0.5)),
+linear-gradient(0deg, #F4F7FF, #F4F7FF);
+border-radius: 16px;
+}
+.div11{
+    /* Rectangle 532 */
+
+
+position: absolute;
+width: 1060px;
+height: 176px;
+left: 190px;
+top: 2644px;
+
+background: #0059F7;
+border-radius: 24px;
+}
+.p7{
+    position: absolute;
+width: 135px;
+height: 16px;
+left: 100px;
+top: 25px;
+
+/* Subheading Small */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height, or 114% */
+
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+.h3{
+    /* Start your free trial today! */
+
+
+position: absolute;
+width: 441px;
+height: 40px;
+left: 100px;
+top: 50px;
+
+/* H3 Title */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 40px;
+/* identical to box height, or 111% */
+
+letter-spacing: -0.03em;
+
+/* White */
+
+color: #FFFFFF;
+
+}
+.div12{
+    /* Frame 4 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 20px 24px;
+gap: 10px;
+
+position: absolute;
+width: 178px;
+height: 64px;
+left: 1016px;
+top: 2700px;
+
+/* Blue/Blue 300 */
+
+background: #689EFF;
+border-radius: 8px;
+}
+.button2{
+    /* Get Started */
+
+
+width: 96px;
+height: 24px;
+
+/* Button */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+background-color: #689EFF;;
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+border: 0;
+color: #FFFFFF; 
+}
+.div13{
+    /* Rectangle 29 */
+
+
+position: absolute;
+width: 1440px;
+height: 120px;
+left: 0px;
+top: 2952px;
+
+background: #162044;
+}
+.facebook{
+    /* Vector */
+
+
+position: absolute;
+left: 150px;
+right: 27.08%;
+top: 50px;
+bottom: 16.67%;
+
+/* Gray/Gray 300 */
+
+}
+.twitter{    /* Vector */
+
+
+    position: absolute;
+    left: 200px;
+    right: 27.08%;
+    top: 50px;
+    bottom: 16.67%;
+
+}
+.intagram{
+       /* Vector */
+
+
+position: absolute;
+left: 250px;
+right: 27.08%;
+top: 50px;
+bottom: 16.67%;
+
+}
+.linkdin{
+        /* Vector */
+
+
+position: absolute;
+left: 300px;
+right: 27.08%;
+top: 50px;
+bottom: 16.67%;     
+}
+.p8{
+    /* Terms & Conditions */
+
+
+position: absolute;
+width: 139px;
+height: 24px;
+left: 590px;
+top: 50px;
+
+/* Body Small */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+
+color: #CCD2E9;
+}
+.p9{
+    /* Privacy Policy */
+
+
+position: absolute;
+width: 97px;
+height: 24px;
+left: 753px;
+top: 50px;
+
+/* Body Small */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+
+color: #CCD2E9;
+
+}
+.p10{
+    /* Privacy Policy */
+
+
+position: absolute;
+width: 169px;
+height: 24px;
+left: 1082px;
+top: 50px;
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+
+text-align: right;
+
+/* Gray/Gray 300 */
+
+color: #CCD2E9;
+}
+.div14{
+    /* Frame 3 */
+
+
+/* Auto layout */
+
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 16px 24px;
+gap: 10px;
+
+position: absolute;
+width: 188px;
+height: 56px;
+left: 850px;
+top: 324px;
+
+/* Blue/Blue 600 */
+
+background: #0059F7;
+border-radius: 8px;
+}
+.button3{
+    /* Pricing and Plans */
+
+
+    width: 188px;
+    height: 56px;
+
+/* Button */
+
+font-family: 'Sora';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+
+
+color: #FFFFFF;
+background-color: #0059F7;
+border: 0;
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
